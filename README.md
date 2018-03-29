@@ -1,4 +1,4 @@
-# Learn-GitHub
+# Learning-Git
 
 
 ## Different titles
